@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [kAI](https://talktokai.com)
 
-- 🌱 I’m currently learning **Kotlin, dart and C#**
-
 - 💬 Ask me about **Mobile development**
 
 - 📫 How to reach me **marlon@talktokai.com**
